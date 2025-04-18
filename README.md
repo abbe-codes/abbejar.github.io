@@ -39,4 +39,4 @@ This website is deployed using GitHub Pages.
 
 ## Contact
 
-Feel free to reach out to me at abdallah.jarbou@gmail.com or connect with me on LinkedIn.
+Feel free to reach out to me at abdulla.garbo@gmail.com or connect with me on LinkedIn.
